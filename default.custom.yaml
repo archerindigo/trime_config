@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: trime
+  distribution_version: "v3.2.15-20231104"
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Nov 25 10:24:48 2023"
+  rime_version: 1.9.0
+patch:
+  schema_list:
+    - {schema: array30}
+    - {schema: array30_query}
+    - {schema: array30_wsymbols}
